@@ -10,4 +10,11 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="tcss450.uw.edu.githubtestproject.NewActivity">
 
+    <TextClock
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/textClock"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="57dp" />
 </RelativeLayout>
